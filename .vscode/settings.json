@@ -1,0 +1,27 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "editor.defaultFormatter": "biomejs.biome",
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ejs]": {
+    "editor.defaultFormatter": "besthyhy.ejs-eta-beautify"
+  },
+  "cSpell.words": [
+    "itty",
+    "openapi",
+    "opentelemetry",
+    "OTEL"
+  ],
+  "[env]": {
+    "editor.defaultFormatter": "IronGeek.vscode-env"
+  },
+}
